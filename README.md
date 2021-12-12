@@ -1,27 +1,27 @@
 # Calculator-C_Cpp
-Version: 0.10.1
+**Version: 0.10.1**
 
-This is a CLI (Command Line Interface) based calculator written in C language by Krishnendu Das and Anik Adhikari.
+This is a CLI (Command Line Interface) based calculator for **Windows-10 64 bit**. This is written in **C** using DEV C++ and VS Code
 
+More features are to be added soon ;)
 
+________________________________________________________________________________________
+***What's New in v0.10.1 :***
 
-More features are to be added soon...
++Interface Changes
 
++Added Introductory Text.
 
-   
-      
-      
++Added Update Notes.
 
-What's New in 0.10.1:
++Changed the way of Input a little so user can easily Understand.
 
-**Interface Changes
++Added GCD and LCM in Utilities.
 
-*Added Introductory Text.
++Made more Robust over previous versions.
+_________________________________________________________________________________________
+Contact us:--
 
-*Added Update Notes.
+Krishnendu Das(Twitter): 
 
-*Changed the way of Input a little so user can easily Understand.
-
-*Complex Calculations are now called Equational Calculations.
-
-*Added GCD and LCM in Equational Calculations. '
+Anik Adhikari(Twitter):
