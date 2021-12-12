@@ -8,7 +8,9 @@ This is a CLI (Command Line Interface) based calculator written in C language by
 More features are to be added soon...
 
 
-
+   
+      
+      
 
 What's New in 0.10.1:
 
