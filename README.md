@@ -1,5 +1,5 @@
 # Calculator-C_Cpp
-Version: 1.3
+Version: 0.10.1
 
 This is a CLI (Command Line Interface) based calculator written in C language by Krishnendu Das and Anik Adhikari.
 
